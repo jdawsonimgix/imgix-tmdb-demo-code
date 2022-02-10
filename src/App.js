@@ -59,7 +59,4 @@ function App() {
 
 export default App;
 
-// https://developers.themoviedb.org/3/getting-started/introduction
-// set up api
-
-//30:25
+// This product uses the TMDB API but is not endorsed or certified by TMDB.
